@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Natty or Not Natty? O Hype do Fisiculturimos e as Tecnologias Generativas
 
 ## 📒 Descrição
 Um E-book de 6 páginas que fala sobre as formas de aplicação e o impacto das tecnologias generativas no fisiculturismo.
